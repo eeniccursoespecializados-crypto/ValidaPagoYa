@@ -1,0 +1,27 @@
+{
+  "name": "validapago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.2",
+  "dependencies": {
+    "@types/node": "^25.2.3",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "@whiskeysockets/baileys": "7.0.0-rc.9",
+    "lucide-react": "^0.563.0",
+    "next": "^16.1.6",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  }
+}
